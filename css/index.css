@@ -329,7 +329,7 @@ body{
     left:50%;
     margin-left:-30px;
     text-indent:-9999px;
-    background:#fff url(images/bg-down-arrow.png) no-repeat 50% 30%
+    background:#fff 
 }
 .section-about{
     background:#fff
